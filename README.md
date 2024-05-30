@@ -39,7 +39,7 @@ This project implements a mobile-controlled car using Arduino and Arduino IDE. T
 
 ![WhatsApp Image 2024-05-17 at 16 46 28_45582224](https://github.com/iiiiOreo/Mobile-Controlled-Car-With-Arduino/assets/96269673/04c26027-641d-4e4e-bc9e-8115788441ad)
 
-## Usage
+## Note
 We Used in this Project 2 motor car only
 
 ## Usage
